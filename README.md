@@ -14,15 +14,19 @@
 [未踏ジュニア公式 Motion Rapid プロジェクト](https://jr.mitou.org/projects/2022/motion_rapid)<br>
 [MotionRapid エディタ](https://motion-rapid-service.github.io/MotionRapid/)<br>
 
-### Sechack 365
-2023年Sechack365 (国立研究開発法人情報通信研究機構主催) 開発駆動コース 川合ゼミ<br>　
+### SecHack 365
+2023年SecHack365 (国立研究開発法人情報通信研究機構主催) 開発駆動コース 川合ゼミ<br>　
 言語処理系プロジェクト - タイムラインを活用したプログラムの動作を可視化する学習システムの開発<br>
+[成果資料](https://shiopy0101.github.io/SoftLoopWebsite/)<br/>
 
 ### 資格・実績
-pixiv株式会社 サマーインターン<br>
-デジタル庁キャリア支援プログラム （デジタル庁と大学でのインターン / アイデアハッカソン）<br>
 2022年 基本情報技術者取得　<br>
 2021年 日本情報オリンピック予選Bランク<br>
+
+### インターンほか
+CA Go College 2026.02 ~ 03<br/> 
+toridori 開発部 2024.10 ~ 2026.01<br/> 
+pixiv株式会社 サマーインターン 2024.08.21 ~ 08.30<br>
 
 ### 表彰
 N・S高等学校令和4年度卒業式 (新潟)　特別表彰(なんと7000人のうち15名！)<br>
