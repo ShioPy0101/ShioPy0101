@@ -24,7 +24,7 @@
 2021年 日本情報オリンピック予選Bランク<br>
 
 ### インターンほか
-CA Go College 2026.02 ~ 03<br/> 
+[CA Go College](https://note.com/ca_tech/n/n273b9a2f8055) 2026.02 ~ 03<br/> 
 toridori 開発部 2024.10 ~ 2026.01<br/> 
 pixiv株式会社 サマーインターン 2024.08.21 ~ 08.30<br>
 
