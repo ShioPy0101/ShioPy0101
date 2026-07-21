@@ -22,7 +22,7 @@
 ### 勉強会登壇等
 #### KC3 2025 60分勉強会枠（関西情報系学生団体交流会）Webアプリ開発のためのプログラミング言語処理系入門！
 [実施概要](https://kc3.me/study/3623/)<br>
-[資料](https://docs.google.com/presentation/d/1zsSrcDh-Vwm2Si9k280tie8eyt6ZQAafdljPCwlS2Ic/edit?usp=sharing) (少し資料を追記しています)<br>
+[資料](https://docs.google.com/presentation/d/1zsSrcDh-Vwm2Si9k280tie8eyt6ZQAafdljPCwlS2Ic/edit?usp=sharing) (発表資料のうち、言語処理系に焦点を絞ったリマスター版です)<br>
 
 #### KITHUB(大学学生団体) Workshop 「Cross Tech Workshop」2日目（2026年5月26日）<br>
 [実施概要](https://shiopy0101.github.io/sqlpandas-workshop/)<br>
