@@ -19,7 +19,24 @@
 言語処理系プロジェクト - タイムラインを活用したプログラムの動作を可視化する学習システムの開発<br>
 [成果資料](https://shiopy0101.github.io/SoftLoopWebsite/)<br/>
 
-### 資格・実績
+### 勉強会登壇等
+#### KC3 2025 60分勉強会枠（関西情報系学生団体交流会）Webアプリ開発のためのプログラミング言語処理系入門！
+[実施概要](https://kc3.me/study/3623/)<br>
+[資料](https://docs.google.com/presentation/d/1zsSrcDh-Vwm2Si9k280tie8eyt6ZQAafdljPCwlS2Ic/edit?usp=sharing)<br>
+
+#### KITHUB(大学学生団体) Workshop 「Cross Tech Workshop」2日目（2026年5月26日）<br>
+[実施概要](https://shiopy0101.github.io/sqlpandas-workshop/)<br>
+[勉強会用ツール](https://github.com/ShioPy0101/sql-playground) <br>
+
+#### Kyobashi.rb #11 LT
+[実施概要](https://kyobashirb.connpass.com/event/392709/)
+
+#### 関西Ruby会議 LT
+[実施概要](https://regional.rubykaigi.org/kansai09/speakers/)<br>
+[資料](https://docs.google.com/presentation/d/1LDShiPkbxwJziCdkGtUNacmPltkWQnISFry2uUATuQM/edit?usp=sharing)<br>
+
+
+### 資格
 2022年 基本情報技術者取得　<br>
 2021年 日本情報オリンピック予選Bランク<br>
 
