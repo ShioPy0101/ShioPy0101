@@ -31,7 +31,7 @@
 #### Kyobashi.rb #11 LT
 [実施概要](https://kyobashirb.connpass.com/event/392709/)
 
-#### 関西Ruby会議 LT
+#### 関西Ruby会議9 LT
 [実施概要](https://regional.rubykaigi.org/kansai09/speakers/)<br>
 [資料](https://docs.google.com/presentation/d/1LDShiPkbxwJziCdkGtUNacmPltkWQnISFry2uUATuQM/edit?usp=sharing)<br>
 
