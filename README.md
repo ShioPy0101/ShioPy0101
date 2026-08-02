@@ -20,7 +20,7 @@
 [成果資料](https://shiopy0101.github.io/SoftLoopWebsite/)<br/>
 
 ### 勉強会登壇等
-#### KC3 2025 60分勉強会枠（関西情報系学生団体交流会）Webアプリ開発のためのプログラミング言語処理系入門！
+#### KC3 2025 60分勉強会枠（関西情報系学生団体交流会）Webアプリ開発のためのプログラミング言語処理系入門！ @京都リサーチパーク
 [実施概要](https://kc3.me/study/3623/)<br>
 [資料](https://docs.google.com/presentation/d/1zsSrcDh-Vwm2Si9k280tie8eyt6ZQAafdljPCwlS2Ic/edit?usp=sharing) (発表資料のうち、言語処理系に焦点を絞ったリマスター版です)<br>
 
@@ -31,11 +31,11 @@
 #### Kyobashi.rb #11 LT
 [実施概要](https://kyobashirb.connpass.com/event/392709/)
 
-#### 関西Ruby会議9 LT
+#### 関西Ruby会議9 LT @大津市伝統芸能会館
 [実施概要](https://regional.rubykaigi.org/kansai09/speakers/)<br>
 [資料](https://docs.google.com/presentation/d/1LDShiPkbxwJziCdkGtUNacmPltkWQnISFry2uUATuQM/edit?usp=sharing)<br>
 
-#### サイバー関西プロジェクト学生部 ゆるLT2 @さくらインターネット本社 Blooming camp
+#### サイバー関西プロジェクト学生部 ネットワークゆるLT大会 @さくらインターネット本社 Blooming camp
 X-Accel-Redirectによる映像配信とそのTCPパケットキャプチャについて<br>
 [実施概要](https://ckp-students.connpass.com/event/397725/)<br>
 [資料](https://docs.google.com/presentation/d/1tfIRogkFc7tbt8i1ZQRebucFTC-VgWLkxRtOCnbtOdY/edit?usp=sharing)<br>
