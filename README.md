@@ -39,7 +39,7 @@
 X-Accel-Redirectによる映像配信とそのTCPパケットキャプチャについて<br>
 [実施概要](https://ckp-students.connpass.com/event/397725/)<br>
 [資料](https://docs.google.com/presentation/d/1tfIRogkFc7tbt8i1ZQRebucFTC-VgWLkxRtOCnbtOdY/edit?usp=sharing)<br>
-
+余興としてパーサー入門コーナー？も行いました
 
 ### 資格
 2022年 基本情報技術者取得　<br>
