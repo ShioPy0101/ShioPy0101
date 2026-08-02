@@ -35,6 +35,11 @@
 [実施概要](https://regional.rubykaigi.org/kansai09/speakers/)<br>
 [資料](https://docs.google.com/presentation/d/1LDShiPkbxwJziCdkGtUNacmPltkWQnISFry2uUATuQM/edit?usp=sharing)<br>
 
+#### サイバー関西プロジェクト学生部 ゆるLT2 @さくらインターネット本社 Blooming camp
+X-Accel-Redirectによる映像配信とそのTCPパケットキャプチャについて
+[実施概要](https://ckp-students.connpass.com/event/397725/)<br>
+[資料](https://docs.google.com/presentation/d/1tfIRogkFc7tbt8i1ZQRebucFTC-VgWLkxRtOCnbtOdY/edit?usp=sharing)<br>
+
 
 ### 資格
 2022年 基本情報技術者取得　<br>
