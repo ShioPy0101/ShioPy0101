@@ -46,6 +46,7 @@ X-Accel-Redirectによる映像配信とそのTCPパケットキャプチャに�
 2021年 日本情報オリンピック予選Bランク<br>
 
 ### インターン / アルバイトほか
+合同会社DMM.com GoSprint 2026.08.03~07<br/> 
 サイバーエージェント [CA Go College](https://note.com/ca_tech/n/n273b9a2f8055) 2026.02 ~ 03<br/> 
 toridori 開発部 2024.10 ~ 2026.01<br/> 
 pixiv株式会社 サマーインターン 2024.08.21 ~ 08.30<br>
